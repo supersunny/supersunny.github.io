@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Elements
+title: Resume
 permalink: /elements/
-weight: 4
+weight: 3
 ---
 
 # **Elements**
