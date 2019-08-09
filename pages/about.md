@@ -7,8 +7,8 @@ weight: 1
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Welcom! My name is **{{ site.author.name }}**,<br>
+I am a Graduate Student studying Computer Science. My research interest is in Machine Learning, Software Engineering, Computer vision. And in my personal life, I usually play guitar and watch movies. If you are interested in my experiences, check out other sections as well. Thank you!
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
