@@ -2,8 +2,8 @@
 title               : Geesun Jang
 description         : >-                               # >- means to ignore newlines until "url:"
                       I turn coffee into code,
-                      use tabs over spaces
-                      and never broke production.
+                      like mac over windows
+                      and never stop debugging.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -13,7 +13,7 @@ repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on 
 ### Author Info ###
 author:
   name              : Geesun Jang
-  image             : https://bit.ly/2KCvgVJ
+  image             : http://drive.google.com/uc?export=view&id=16l75qJ-Twqjd80_WTxBJtM-QAn2DAE3o
 #  behance           : your_username
 # dribbble          : your_username
   email             : geesun.psu@gmail.com
@@ -49,6 +49,8 @@ collections:
     output: true
     permalink: /projects/:name
 
+plugins:
+  - jemoji
 
 ### Defaults for collections ###
 defaults:
