@@ -7,7 +7,7 @@ weight: 1
 
 # **About Me**
 
-Welcom! My name is **{{ site.author.name }}**,<br>
+Welcome! My name is **{{ site.author.name }}**,<br>
 I am a Graduate Student studying Computer Science. My research interest is in Machine Learning, Software Engineering, Computer vision. And in my personal life, I usually play guitar and watch movies. If you are interested in my experiences, check out other sections as well. Thank you!
 
 <div class="row">
