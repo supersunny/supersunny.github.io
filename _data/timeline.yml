@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 - title: Student, Harvard CS
   from: 2014
+=======
+- title: Masters, Penn State University, PA
+  from: 2018
+  to: present
+  description: As a Graduate Student, I am learning how to deal with problems as researcher's perspective. 
+               One of my goal during my masters, is to develop know-hows to solve problems using machine learning techniques efficiently.
+               So far, I am truly happy with the great faculties, briliant students, and environments at Penn State. 
+
+- title: Undergraduate, Konkuk University, South Korea
+  from: 2011
+>>>>>>> e6f3b0b98ca626a474524dc4a6a2715b7f48f7e7
   to: 2018
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
