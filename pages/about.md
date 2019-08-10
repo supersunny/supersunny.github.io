@@ -12,7 +12,7 @@ I am a Graduate Student studying Computer Science. My research interest is in Ma
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Framework experience" source=site.data.other-skills %}
 </div>
 
 <div class="row">

@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-- title: Student, Harvard CS
-  from: 2014
-=======
 - title: Masters, Penn State University, PA
   from: 2018
   to: present
@@ -11,19 +7,7 @@
 
 - title: Undergraduate, Konkuk University, South Korea
   from: 2011
->>>>>>> e6f3b0b98ca626a474524dc4a6a2715b7f48f7e7
   to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: During my Undergraduate years, I double-majored in Industrial Engineering and Computer Engineering. 
+               In my Industrial Eng. classes, I learned how to manage a project and discuss with teammates to come up with the best solution for the problem in an efficient way. 
+               And during studying Computer Eng. courses, I learn the essential principles of computer system such as Computer Architecture, Operating Systems, Compiler.
