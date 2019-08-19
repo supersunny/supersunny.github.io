@@ -1,7 +1,7 @@
 ---
-name: The Fabulous
-tools: [Android, Material Design]
-image: https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/material_design_awards_inline_002.jpg
+name: Digital Clock and Calcuator system on a HCS12C128 board
+tools: [Assembly, Embedded system, System engineering]
+image: https://www.newark.com/productimages/standard/en_US/4616597.jpg
 description: Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
 external_url: https://thefabulous.co/
 ---
