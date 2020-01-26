@@ -2,19 +2,23 @@
 name: Money Management Application
 tools: [React, Javascript, Scikit-learn]
 image: ../assets/project_images/3_money_1.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: This web application helps users managing ther assets. We built an Machine Learning model to predict an idividual's behavior based on thier previous expenses.
 ---
 
-# The Movies Project
+# Money Management Application
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+The biggest problem that people encounter with their finances is dealing with howand when to spend their money, and what to spend their money on. This isbecause people often do not understand how their spending today affects them inthe future. With reason, we focused on leveraging new technology tocreate helpful tools for the customers.
 
-![preview](https://images.unsplash.com/photo-1558637895-81bc1f4220eb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)
 
-## Search Movies
+![preview](../assets/project_images/3_money_1.png)
 
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+## Objectives
+
+(1) Build a Machine Learning model to predict an individual’s behavior based on their previousexpenses and provide financial advice (spending / investing) \\
+(2) Build a full stack web application that lets customers interact with the money managementservice (UI, API, DB, testing) \\
+(3) Learn about Agile practices and delivering results in an effective way 
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include elements/button.html link="https://geesun56.github.io/MM-publish/" text="Check out the demo" %}
 </p>
+
