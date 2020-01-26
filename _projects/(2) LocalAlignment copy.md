@@ -1,11 +1,11 @@
 ---
-name: Utilizing Local Alignment in Object Detection (STOP sign)
+name: Utilizing Local Alignment in STOP sign Detection
 tools: [Matlab, Image Processing, Bioinformatics]
 image: https://images.unsplash.com/photo-1558637895-81bc1f4220eb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: In this project, I applied 'Local Alignment' algorithm in Bioinformatics to solve object detection problem.
 ---
 
-# The Movies Project
+# Local Alighment in STOP sign Detection
 
 The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
 
